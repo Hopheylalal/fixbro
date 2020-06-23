@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998664024983",
+    "firebase_url": "https://fixbro-2b57e.firebaseio.com",
+    "project_id": "fixbro-2b57e",
+    "storage_bucket": "fixbro-2b57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998664024983:android:4f880fcac3b26c1272cad2",
+        "android_client_info": {
+          "package_name": "com.app.fixbro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998664024983-jnfht99gq89o4n8ktpgp1lrfqrnk0leu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxcnEtKsb5D6xPNDQKHl3wgdsyDOnODU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998664024983-jnfht99gq89o4n8ktpgp1lrfqrnk0leu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998664024983-avdbfhihc4ekdid42chnnc7p2psom31b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.fixbro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
